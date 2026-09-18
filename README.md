@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/robot-mafia/nestjs-telegraf/main/.github/logo.svg" />
+  <img src="https://raw.githubusercontent.com/nksmnf/nestjs-telegraf/main/.github/logo.svg" />
 </p>
 
-# ![npm](https://img.shields.io/npm/dm/nestjs-telegraf) ![GitHub last commit](https://img.shields.io/github/last-commit/0x467/nestjs-telegraf) ![NPM](https://img.shields.io/npm/l/nestjs-telegraf)
+# ![npm](https://img.shields.io/npm/dm/nestjs-telegraf) ![GitHub last commit](https://img.shields.io/github/last-commit/nksmnf/nestjs-telegraf) ![NPM](https://img.shields.io/npm/l/nestjs-telegraf)
 
 NestJS Telegraf – powerful solution for creating Telegram bots.
 
@@ -31,7 +31,7 @@ $ npm i nestjs-telegraf telegraf
 ```
 
 ## Documentation
-Check out the [documentation site](https://nestjs-telegraf.0x467.com/).
+Check out the [documentation site](https://github.com/nksmnf/nestjs-telegraf/tree/main/docs).
 
 ## Activity
 ![Alt](https://repobeats.axiom.co/api/embed/3a0b83192feaeff27d8a7f78f53e5cb951f94dac.svg "Repobeats analytics image")
