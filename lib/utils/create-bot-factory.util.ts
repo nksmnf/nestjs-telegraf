@@ -8,12 +8,12 @@ export async function createBotFactory(
   const bot = new Telegraf<any>(options.token, options.options);
 
   bot.use(...(options.middlewares ?? []));
-  bot.catch((err, ctx) =>
-    Logger.error(err, `Telegraf: ${ctx.botInfo.username}`),
-  );
+  bot.catch((err, ctx) => {
+    Logger.error(err, `Telegraf: ${ctx.botInfo.username}`);
+  });
 
   if (options.launchOptions !== false) {
-    bot.launch(options.launchOptions);
+    bot.launch(options.launchOptions).catch((err) => Logger.error(err));
   }
 
   return bot;
