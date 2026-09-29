@@ -31,7 +31,7 @@ $ npm i nestjs-telegraf telegraf
 ```
 
 ## Documentation
-Check out the [documentation site](https://nestjs-telegraf.0x467.com/).
+Check out the [documentation site](https://nestjs-telegraf.gesh.app/).
 
 ## Activity
 ![Alt](https://repobeats.axiom.co/api/embed/3a0b83192feaeff27d8a7f78f53e5cb951f94dac.svg "Repobeats analytics image")
