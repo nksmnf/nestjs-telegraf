@@ -9,7 +9,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Docs', link: '/' },
-      { text: 'API (typedoc)', link: 'https://nestjs-telegraf-api.pages.dev/' }
+      { text: 'API (typedoc)', link: 'https://nestjs-telegraf.gesh.app/api/' }
     ],
 
     sidebar: [
