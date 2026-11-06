@@ -71,7 +71,7 @@
     "eslint-plugin-prettier": "5.2.6",
     "husky": "9.1.7",
     "lint-staged": "15.5.1",
-    "prettier": "3.5.3",
+    "prettier": "3.6.2",
     "reflect-metadata": "^0.2.2",
     "telegraf": "^4.16.3",
     "typedoc": "0.28.3",
